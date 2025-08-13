@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Caio Medeiros 👋
 
-<!--
-**CL-Medeiros/CL-Medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as an **IT Service Agent** and studying **Full Stack Software Developer** at Learning People. 
+I love building **interactive websites and apps** using HTML, CSS, JavaScript, Node.js, and SQL.
+And still exploring and learning new languages. 
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies
+- HTML, CSS, JavaScript (ES6+)
+- Node.js & Express.js
+- SQL & Databases
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Goals
+- Master building and managing complex APIs
+- Become a proficient full stack developer
+- Explore advanced JavaScript concepts
+
+### 🔗 Find me around the web:
+- [LinkedIn](https://linkedin.com/in/caioleite-aus)  
+- [Portfolio Website](https://yourportfolio.com) - **TBA**
+
+---
+
+Feel free to reach out if you'd like to collaborate or chat about coding!
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
